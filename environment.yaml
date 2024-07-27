@@ -1,0 +1,5 @@
+name: jl_env
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/steigerj/miniconda3/envs/jl_env
